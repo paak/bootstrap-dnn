@@ -1,0 +1,8 @@
+<ol class="breadcrumb">
+[*>NODE]
+</ol>
+[>NODE]
+[?BREADCRUMB]
+    <li><a href="[=URL]" [?SELECTED]class="active"[/?]>[=TEXT]</a></li>
+[/?]
+[/>]

@@ -1,0 +1,14 @@
+.dnnCheckbox .mark {
+    background:transparent !important;
+}
+
+#ControlBar, #ControlBar:before, #ControlBar:after, #ControlBar *:before, #ControlBar *:after,
+#ControlBar li, #ControlBar li:before, #ControlBar li:after,
+#ControlBar a, #ControlBar a:before, #ControlBar a:after,
+.dnn_mact, .dnn_mact:before, .dnn_mact:after, .dnn_mact *:before, .dnn_mact *:after,
+.dnn_mact li, .dnn_mact li:before, .dnn_mact li:after, .dnnDropDownList .selected-item a, .dnnDropDownList .selected-item a:link, .dnnDropDownList .selected-item a:visited, .dnnDropDownList .selected-item a:hover, .dnnDropDownList .selected-item a:active, #dnnModuleDigitalAssetsSelectionToolbar
+{
+    -webkit-box-sizing: content-box !important; /* Safari/Chrome, other WebKit */
+    -moz-box-sizing: content-box !important;    /* Firefox, other Gecko */
+    box-sizing: content-box !important;         /* Opera/IE 8+ */
+}	

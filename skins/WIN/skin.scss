@@ -1,0 +1,11 @@
+﻿.Normal {
+  color: inherit;
+  font-weight: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+$fa-font-path:        "./fonts";
+
+@import "./bootstrap-4.0.0-scss/bootstrap";
+@import "./fontawesome-4.4.0-scss/font-awesome";
+
